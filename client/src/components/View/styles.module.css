@@ -1,0 +1,47 @@
+.button{
+    border: none;
+    outline: none;
+    padding: 12px 0;
+    border-radius: 20px;
+    width: 120px;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+    margin-right: 20px;
+    background-color: aquamarine;
+    margin-top: 10px;
+  }
+
+  .button1{
+    border: none;
+    outline: none;
+    padding: 12px 0;
+    border-radius: 20px;
+    width: 120px;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+    margin-right: 20px;
+    background-color:red;
+    margin-top: 10px;
+  }
+
+
+  .image_img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+  }
+
+  .card {
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 20px;
+    padding: 40px;
+    width: 70%;
+    margin: 0px 10px 5px 10px;
+}
+
+.card_deck{
+  background-color: #ebebeb;
+}
